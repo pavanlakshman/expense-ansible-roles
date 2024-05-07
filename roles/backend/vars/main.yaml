@@ -2,3 +2,5 @@ login_password: ExpenseApp@1
 login_host: db.pavandevops.online
 login_user: root
 DB_HOST: db.pavandevops.online
+app_location: /app
+component: backend

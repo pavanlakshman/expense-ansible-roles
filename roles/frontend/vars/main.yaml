@@ -1,1 +1,4 @@
 BACKEND_HOST: backend.pavandevops.online
+component: frontend
+app_location: /usr/share/nginx/html
+component: frontend
